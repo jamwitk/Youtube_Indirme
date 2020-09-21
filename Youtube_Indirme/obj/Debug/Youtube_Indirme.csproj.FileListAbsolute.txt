@@ -1,0 +1,15 @@
+C:\Users\yy\Desktop\Youtube_Indirme\Youtube_Indirme\bin\Debug\Youtube_Indirme.exe.config
+C:\Users\yy\Desktop\Youtube_Indirme\Youtube_Indirme\bin\Debug\Youtube_Indirme.exe
+C:\Users\yy\Desktop\Youtube_Indirme\Youtube_Indirme\bin\Debug\Youtube_Indirme.pdb
+C:\Users\yy\Desktop\Youtube_Indirme\Youtube_Indirme\bin\Debug\libvideo.dll
+C:\Users\yy\Desktop\Youtube_Indirme\Youtube_Indirme\bin\Debug\MediaToolkit.dll
+C:\Users\yy\Desktop\Youtube_Indirme\Youtube_Indirme\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yy\Desktop\Youtube_Indirme\Youtube_Indirme\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\yy\Desktop\Youtube_Indirme\Youtube_Indirme\obj\Debug\Youtube_Indirme.Form1.resources
+C:\Users\yy\Desktop\Youtube_Indirme\Youtube_Indirme\obj\Debug\Youtube_Indirme.Properties.Resources.resources
+C:\Users\yy\Desktop\Youtube_Indirme\Youtube_Indirme\obj\Debug\Youtube_Indirme.csproj.GenerateResource.cache
+C:\Users\yy\Desktop\Youtube_Indirme\Youtube_Indirme\obj\Debug\Youtube_Indirme.csproj.CoreCompileInputs.cache
+C:\Users\yy\Desktop\Youtube_Indirme\Youtube_Indirme\obj\Debug\Youtube_Indirme.csproj.CopyComplete
+C:\Users\yy\Desktop\Youtube_Indirme\Youtube_Indirme\obj\Debug\Youtube_Indirme.exe
+C:\Users\yy\Desktop\Youtube_Indirme\Youtube_Indirme\obj\Debug\Youtube_Indirme.pdb
+C:\Users\yy\Desktop\Youtube_Indirme\Youtube_Indirme\obj\Debug\Youtube_Indirme.csprojAssemblyReference.cache
